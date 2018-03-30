@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook:92fe05d1e7e5
+FROM jupyter/scipy-notebook:c88678a1c7c9
 
 LABEL maintainer="Lars Melwyn <melwyn (at) scico.io>"
 
