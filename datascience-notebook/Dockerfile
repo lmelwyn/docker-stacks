@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook:137a295ff71b
+FROM jupyter/datascience-notebook:77e10160c7ef
 
 LABEL maintainer="Lars Melwyn <melwyn (at) scico.io>"
 
